@@ -98,6 +98,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-diskman_INCLUDE_kmod_md_raid456=y
           CONFIG_PACKAGE_luci-app-diskman_INCLUDE_kmod_md_linear=y
           CONFIG_PACKAGE_luci-app-aria2=y
+          CONFIG_PACKAGE_luci-app-baidupcs-web=y
           CONFIG_PACKAGE_luci-app-docker=y
           CONFIG_PACKAGE_luci-app-frpc=y
           CONFIG_PACKAGE_luci-app-hd-idle=y
